@@ -1,6 +1,6 @@
 # yolov5-cpp
 
-##  * **<p align="center"> 🍅🍅yolov5 c++ object detection onnx</p>** *
+##  * **<p align="center"> 🍅🍅yolov5 c++ object detection onnx🍅🍅</p>** *
 
 
 * **Step 1 – Install Homebrew** *
@@ -8,9 +8,10 @@ https://brew.sh/
 Go to the website and copy the link and paste in the terminal to install.
 * **Step 2 – Install Opencv** *
   Go to terminal and type 
-  """BibTeX
+  
   brew install opencv
- """
+ 
+ 
 * **Step 3 – Create New Xcode Project** *
   Open X code and create a "macOS" - "Command Line Tool" - "C++"
  
@@ -19,9 +20,9 @@ Go to the website and copy the link and paste in the terminal to install.
  
   Press forward slash "/" on keyboard to type the folder path
  
-  '''BibTeX
+  
   /usr/local/Cellar/opencv
- '''
+ 
  
   open your version folder and go to lib and select all Dynamic Libraries 
  
@@ -34,7 +35,10 @@ Python
   Search for "Header Search Paths" 
  
   Double click and enter the path (make sure to change your version)
- '''BibTeX
+ 
  /usr/local/Cellar/opencv/4.5.0_5/include/opencv4
- '''
+
  make it recursive
+
+
+[❤️ Star 🌟👆🏻 this repo to support me if it does any helps to you, thanks ~ ]

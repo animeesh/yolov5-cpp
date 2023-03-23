@@ -4,6 +4,7 @@
 
 I have tried it on xcode of macos (macbook-air 13)
 
+* ** Step ** *
 * **Step 1 – Install Homebrew** *
 https://brew.sh/
 Go to the website and copy the link and paste in the terminal to install.

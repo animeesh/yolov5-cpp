@@ -23,11 +23,11 @@ brew install opencv
   Press forward slash "/" on keyboard to type the folder path
  
   
-  ```shell
-  
-  /usr/local/Cellar/opencv
-  
-  ```
+```shell
+
+/usr/local/Cellar/opencv
+
+```
  
   open your version folder and go to lib and select all Dynamic Libraries 
  
@@ -41,11 +41,11 @@ Python
  
   Double click and enter the path (make sure to change your version)
   
- ```shell
- 
- /usr/local/Cellar/opencv/4.5.0_5/include/opencv4
- 
- ```
+```shell
+
+/usr/local/Cellar/opencv/4.5.0_5/include/opencv4
+
+```
  make it recursive
 
 

@@ -1,7 +1,7 @@
 # yolov5-cpp
-<!---
-##  <p align="center"> 🍅🍅yolov5 c++ object detection onnx</p>
---->
+
+##  * **<p align="center"> 🍅🍅yolov5 c++ object detection onnx</p>** *
+
 
 * **Step 1 – Install Homebrew** *
 https://brew.sh/

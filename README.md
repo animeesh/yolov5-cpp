@@ -2,6 +2,7 @@
 
 ##  * **<p align="center"> 🍅🍅yolov5 c++ object detection onnx🍅🍅</p>** *
 
+I have tried it on xcode of macos (macbook-air 13)
 
 * **Step 1 – Install Homebrew** *
 https://brew.sh/

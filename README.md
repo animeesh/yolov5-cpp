@@ -3,8 +3,6 @@
 ##  * **<p align="center"> 🍅🍅yolov5 c++ object detection onnx🍅🍅</p>** *
 
 
-![running the examples](https://github.com/animeesh/yolov5-cpp/blob/main/static/detection.png)
-
 * **Step 1 – Install Homebrew** *
 https://brew.sh/
 Go to the website and copy the link and paste in the terminal to install.
@@ -49,6 +47,8 @@ Python
 
 ```
  make it recursive
+ 
+ ![running the examples](https://github.com/animeesh/yolov5-cpp/blob/main/static/detection.png)
 
 
 [❤️ Star 🌟👆🏻 this repo to support me if it does any helps to you, thanks ~ ]

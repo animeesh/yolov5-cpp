@@ -37,7 +37,6 @@ Python
   Double click and enter the path (make sure to change your version)
  
  /usr/local/Cellar/opencv/4.5.0_5/include/opencv4
-
  make it recursive
 
 

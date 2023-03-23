@@ -1,20 +1,20 @@
 # yolov5-cpp
 <!---
-##  <p align="center"> 🍅🍅Lite.AI.ToolKit: A lite C++ toolkit of awesome AI models. </p>
+##  <p align="center"> 🍅🍅yolov5 c++ object detection onnx</p>
 --->
 
-##Step 1 – Install Homebrew
+* **Step 1 – Install Homebrew** *
 https://brew.sh/
 Go to the website and copy the link and paste in the terminal to install.
-##Step 2 – Install Opencv
+* **Step 2 – Install Opencv** *
   Go to terminal and type 
  
   brew install opencv
  
-##Step 3 – Create New Xcode Project
+* **Step 3 – Create New Xcode Project** *
   Open X code and create a "macOS" - "Command Line Tool" - "C++"
  
-##Step 4 – Add Dynamic Libraries
+* **Step 4 – Add Dynamic Libraries** *
   Right Click Project folder and "Add Files to ..."
  
   Press forward slash "/" on keyboard to type the folder path
@@ -23,7 +23,7 @@ Go to the website and copy the link and paste in the terminal to install.
  
   open your version folder and go to lib and select all Dynamic Libraries 
  
-##Step 5 – Add Header Search Path
+* **Step 5 – Add Header Search Path** *
 Python
   Select your project folder and go to "Build settings"
  

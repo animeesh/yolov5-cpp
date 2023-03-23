@@ -9,7 +9,7 @@ Go to the website and copy the link and paste in the terminal to install.
 * **Step 2 – Install Opencv** *
   Go to terminal and type 
   
-  ```shell
+```shell
 brew install opencv
 ```
   
@@ -25,7 +25,7 @@ brew install opencv
   
   '''shell
   /usr/local/Cellar/opencv
- '''
+  '''
  
   open your version folder and go to lib and select all Dynamic Libraries 
  
@@ -38,6 +38,7 @@ Python
   Search for "Header Search Paths" 
  
   Double click and enter the path (make sure to change your version)
+  
  '''shell
  /usr/local/Cellar/opencv/4.5.0_5/include/opencv4
  '''
